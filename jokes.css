@@ -8,6 +8,10 @@ h1 {
   flex-wrap: wrap;
   text-wrap: wrap;
 }
+.jokes1,jokes2
+{
+  font-size:22px;
+}
 .insidecontent {
   display: flex;
   flex-direction: column;
